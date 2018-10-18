@@ -14,7 +14,7 @@
 Coming Soon!
 
 ## Contributions
-Contributions for further data analysis are welcome. Please open an issue to ask for access tokens of scrapped result dataset stored on Google Firebase.
+Contributions for further data analysis are welcome. Please open an issue to ask for access tokens of scrapped result dataset stored on Google Firebase. **Note:** Data is available only in JSON format.
 
 ### LICENSE
 [MIT](LICENSE)
