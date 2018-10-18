@@ -14,7 +14,7 @@
 Coming Soon!
 
 ## Contributions
-Contributions for further data analysis are welcome.
+Contributions for further data analysis are welcome. Please open an issue to ask for access tokens of scrapped result dataset stored on Google Firebase.
 
 ### LICENSE
 [MIT](LICENSE)
